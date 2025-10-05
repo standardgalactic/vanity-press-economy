@@ -1,0 +1,75 @@
+C:\> python3 generate_figures.py
+Generating figures...
+
+✓ subsidy_gradient.png created.
+/mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/vanity-press-economy/generate_figures.py:99: RuntimeWarning: overflow encountered in multiply
+  dPhi_dt = -Phi * div_v_val - vx * grad_Phi_x - vy * grad_Phi_y - lambda_PhiS * S + forcing
+/mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/vanity-press-economy/generate_figures.py:99: RuntimeWarning: invalid value encountered in subtract
+  dPhi_dt = -Phi * div_v_val - vx * grad_Phi_x - vy * grad_Phi_y - lambda_PhiS * S + forcing
+/mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/vanity-press-economy/generate_figures.py:102: RuntimeWarning: overflow encountered in multiply
+  dvx_dt = -(vx * grad_vx_x + vy * grad_vx_y) - grad_Phi_x + eta_vS * grad_S_x
+/mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/vanity-press-economy/generate_figures.py:102: RuntimeWarning: invalid value encountered in add
+  dvx_dt = -(vx * grad_vx_x + vy * grad_vx_y) - grad_Phi_x + eta_vS * grad_S_x
+/mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/vanity-press-economy/generate_figures.py:103: RuntimeWarning: overflow encountered in multiply
+  dvy_dt = -(vx * grad_vy_x + vy * grad_vy_y) - grad_Phi_y + eta_vS * grad_S_y
+/mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/vanity-press-economy/generate_figures.py:103: RuntimeWarning: invalid value encountered in add
+  dvy_dt = -(vx * grad_vy_x + vy * grad_vy_y) - grad_Phi_y + eta_vS * grad_S_y
+/mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/vanity-press-economy/generate_figures.py:107: RuntimeWarning: overflow encountered in square
+  dS_dt = alpha * lap_S + beta * div_v_val**2 - gamma * Phi + mu * forcing
+/mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/vanity-press-economy/generate_figures.py:107: RuntimeWarning: invalid value encountered in subtract
+  dS_dt = alpha * lap_S + beta * div_v_val**2 - gamma * Phi + mu * forcing
+NaN/Inf detected in Phi at step 0.013000000000000001
+Free regime - Phi min: nan, max: nan
+Free regime - vx min: nan, max: nan
+Free regime - vy min: nan, max: nan
+/usr/lib/python3/dist-packages/matplotlib/contour.py:1486: UserWarning: Warning: converting a masked element to nan.
+  self.zmax = float(z.max())
+/usr/lib/python3/dist-packages/matplotlib/contour.py:1487: UserWarning: Warning: converting a masked element to nan.
+  self.zmin = float(z.min())
+/mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/vanity-press-economy/generate_figures.py:76: RuntimeWarning: invalid value encountered in subtract
+  return (np.roll(vx, -1, 0) - np.roll(vx, 1, 0) +
+/mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/vanity-press-economy/generate_figures.py:76: RuntimeWarning: invalid value encountered in add
+  return (np.roll(vx, -1, 0) - np.roll(vx, 1, 0) +
+/mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/vanity-press-economy/generate_figures.py:84: RuntimeWarning: invalid value encountered in subtract
+  gx = (np.roll(F, -1, 0) - np.roll(F, 1, 0)) / (2 * h)
+/mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/vanity-press-economy/generate_figures.py:85: RuntimeWarning: invalid value encountered in subtract
+  gy = (np.roll(F, -1, 1) - np.roll(F, 1, 1)) / (2 * h)
+/mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/vanity-press-economy/generate_figures.py:80: RuntimeWarning: invalid value encountered in subtract
+  return (np.roll(F, -1, 0) + np.roll(F, 1, 0) +
+/mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/vanity-press-economy/generate_figures.py:145: RuntimeWarning: overflow encountered in multiply
+  dPhi_dt = -Phi * div_v_val - vx * grad_Phi_x - vy * grad_Phi_y - lambda_PhiS * S + forcing
+/mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/vanity-press-economy/generate_figures.py:145: RuntimeWarning: invalid value encountered in subtract
+  dPhi_dt = -Phi * div_v_val - vx * grad_Phi_x - vy * grad_Phi_y - lambda_PhiS * S + forcing
+/mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/vanity-press-economy/generate_figures.py:148: RuntimeWarning: overflow encountered in multiply
+  dvx_dt = -(vx * grad_vx_x + vy * grad_vx_y) - grad_Phi_x + eta_vS * grad_S_x
+/mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/vanity-press-economy/generate_figures.py:148: RuntimeWarning: invalid value encountered in add
+  dvx_dt = -(vx * grad_vx_x + vy * grad_vx_y) - grad_Phi_x + eta_vS * grad_S_x
+/mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/vanity-press-economy/generate_figures.py:148: RuntimeWarning: invalid value encountered in subtract
+  dvx_dt = -(vx * grad_vx_x + vy * grad_vx_y) - grad_Phi_x + eta_vS * grad_S_x
+/mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/vanity-press-economy/generate_figures.py:149: RuntimeWarning: overflow encountered in multiply
+  dvy_dt = -(vx * grad_vy_x + vy * grad_vy_y) - grad_Phi_y + eta_vS * grad_S_y
+/mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/vanity-press-economy/generate_figures.py:149: RuntimeWarning: invalid value encountered in add
+  dvy_dt = -(vx * grad_vy_x + vy * grad_vy_y) - grad_Phi_y + eta_vS * grad_S_y
+/mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/vanity-press-economy/generate_figures.py:149: RuntimeWarning: invalid value encountered in subtract
+  dvy_dt = -(vx * grad_vy_x + vy * grad_vy_y) - grad_Phi_y + eta_vS * grad_S_y
+/mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/vanity-press-economy/generate_figures.py:150: RuntimeWarning: invalid value encountered in add
+  vx += dt * dvx_dt - kappa * sink * (X - xc) / (w**2)
+/mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/vanity-press-economy/generate_figures.py:153: RuntimeWarning: overflow encountered in square
+  dS_dt = alpha * lap_S + beta * div_v_val**2 - gamma * Phi + mu * forcing
+/mnt/c/Users/Mechachleopteryx/OneDrive/Documents/GitHub/vanity-press-economy/generate_figures.py:153: RuntimeWarning: invalid value encountered in subtract
+  dS_dt = alpha * lap_S + beta * div_v_val**2 - gamma * Phi + mu * forcing
+NaN/Inf detected in Phi at step 0.0 (attractor regime)
+Attractor regime - Phi min: nan, max: nan
+Attractor regime - vx min: nan, max: nan
+Attractor regime - vy min: nan, max: nan
+✓ rsvp_free.png created.
+✓ rsvp_attractor.png created.
+✓ compression_theft.png created.
+
+All figures generated at 2025-10-05 12:50:32.466374:
+  - subsidy_gradient.png
+  - rsvp_free.png
+  - rsvp_attractor.png
+  - compression_theft.png
+
+

@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: monograph.aux
+The style file: chicago.bst
+Database file #1: references.bib
+Warning--no number and no volume in Patterson2021
+Warning--page numbers missing in Patterson2021
+You've used 22 entries,
+            2861 wiz_defined-function locations,
+            755 strings with 7877 characters,
+and the built_in function-call counts, 12618 in all, are:
+= -- 954
+> -- 891
+< -- 0
++ -- 262
+- -- 322
+* -- 1000
+:= -- 2490
+add.period$ -- 68
+call.type$ -- 22
+change.case$ -- 137
+chr.to.int$ -- 22
+cite$ -- 24
+duplicate$ -- 382
+empty$ -- 803
+format.name$ -- 346
+if$ -- 2218
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 30
+newline$ -- 115
+num.names$ -- 220
+pop$ -- 121
+preamble$ -- 1
+purify$ -- 281
+quote$ -- 0
+skip$ -- 402
+stack$ -- 0
+substring$ -- 549
+swap$ -- 115
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 320
+warning$ -- 2
+while$ -- 216
+width$ -- 0
+write$ -- 304
+(There were 2 warnings)
