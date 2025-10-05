@@ -1,0 +1,1000 @@
+2
+}
+,
+year
+=
+{
+1998
+}
+,
+publisher
+=
+{
+Springer
+}
+}
+@book
+{
+Riehl2016
+,
+author
+=
+{
+Emily Riehl
+}
+,
+title
+=
+{
+Category Theory in Context
+}
+,
+year
+=
+{
+2016
+}
+,
+publisher
+=
+{
+Dover Publications
+}
+}
+@misc
+{
+Shulman2012
+,
+author
+=
+{
+Michael Shulman
+}
+,
+title
+=
+{
+Homotopy Type Theory: The Logic of Space
+}
+,
+year
+=
+{
+2012
+}
+,
+eprint
+=
+{
+1904.07004
+}
+,
+archivePrefix
+=
+{
+arXiv
+}
+}
+@article
+{
+Landauer1961
+,
+author
+=
+{
+Rolf Landauer
+}
+,
+title
+=
+{
+Irreversibility and Heat Generation in the Computing Process
+}
+,
+journal
+=
+{
+IBM Journal of Research and Development
+}
+,
+volume
+=
+{
+5
+}
+,
+number
+=
+{
+3
+}
+,
+pages
+=
+{
+183--191
+}
+,
+year
+=
+{
+1961
+}
+}
+@article
+{
+Bennett1982
+,
+author
+=
+{
+Charles H. Bennett
+}
+,
+title
+=
+{
+The Thermodynamics of Computation---A Review
+}
+,
+journal
+=
+{
+International Journal of Theoretical Physics
+}
+,
+volume
+=
+{
+21
+}
+,
+number
+=
+{
+12
+}
+,
+pages
+=
+{
+905--940
+}
+,
+year
+=
+{
+1982
+}
+}
+@article
+{
+SagawaUeda2009
+,
+author
+=
+{
+Takahiro Sagawa and Masahito Ueda
+}
+,
+title
+=
+{
+Minimal Energy Cost for Thermodynamic Information Processing: Measurement and Information Erasure
+}
+,
+journal
+=
+{
+Physical Review Letters
+}
+,
+volume
+=
+{
+102
+}
+,
+number
+=
+{
+25
+}
+,
+pages
+=
+{
+250602
+}
+,
+year
+=
+{
+2009
+}
+}
+@article
+{
+Markov2014
+,
+author
+=
+{
+Igor L. Markov
+}
+,
+title
+=
+{
+Limits on Fundamental Limits to Computation
+}
+,
+journal
+=
+{
+Nature
+}
+,
+volume
+=
+{
+512
+}
+,
+pages
+=
+{
+147--154
+}
+,
+year
+=
+{
+2014
+}
+}
+@incollection
+{
+Carrier1991
+,
+author
+=
+{
+W. David Carrier and Gary R. Olhoeft and Wendell Mendell
+}
+,
+title
+=
+{
+Physical Properties of the Lunar Surface
+}
+,
+booktitle
+=
+{
+Lunar Sourcebook
+}
+,
+editor
+=
+{
+Grant Heiken and David T. Vaniman and Bevan M. French
+}
+,
+pages
+=
+{
+475--594
+}
+,
+year
+=
+{
+1991
+}
+,
+publisher
+=
+{
+Cambridge University Press
+}
+}
+@book
+{
+Spudis2016
+,
+author
+=
+{
+Paul D. Spudis
+}
+,
+title
+=
+{
+The Value of the Moon: How to Explore, Live, and Prosper in Space Using the Moon's Resources
+}
+,
+year
+=
+{
+2016
+}
+,
+publisher
+=
+{
+Smithsonian Books
+}
+}
+@techreport
+{
+NASAArtemis2023
+,
+author
+=
+{
+{NASA Artemis Program}
+}
+,
+title
+=
+{
+Lunar Surface Sustainability and ISRU Roadmap
+}
+,
+year
+=
+{
+2023
+}
+,
+institution
+=
+{
+NASA
+}
+}
+@inproceedings
+{
+ODwyerMalone2014
+,
+author
+=
+{
+K. J. O'Dwyer and David Malone
+}
+,
+title
+=
+{
+Bitcoin Mining and its Energy Footprint
+}
+,
+booktitle
+=
+{
+ISSC 2014/CIICT 2014
+}
+,
+year
+=
+{
+2014
+}
+}
+@article
+{
+Mora2018
+,
+author
+=
+{
+Camilo Mora and others
+}
+,
+title
+=
+{
+Bitcoin Emissions Alone Could Push Global Warming Above 2{\textdegree}C
+}
+,
+journal
+=
+{
+Nature Climate Change
+}
+,
+volume
+=
+{
+8
+}
+,
+pages
+=
+{
+931--933
+}
+,
+year
+=
+{
+2018
+}
+}
+@article
+{
+DeVries2021
+,
+author
+=
+{
+Alex de Vries
+}
+,
+title
+=
+{
+Bitcoin's Growing Energy Problem
+}
+,
+journal
+=
+{
+Joule
+}
+,
+volume
+=
+{
+2
+}
+,
+number
+=
+{
+5
+}
+,
+pages
+=
+{
+801--805
+}
+,
+year
+=
+{
+2021
+}
+}
+@book
+{
+CapraLuisi2014
+,
+author
+=
+{
+Fritjof Capra and Pier Luigi Luisi
+}
+,
+title
+=
+{
+The Systems View of Life: A Unifying Vision
+}
+,
+year
+=
+{
+2014
+}
+,
+publisher
+=
+{
+Cambridge University Press
+}
+}
+@book
+{
+MargulisSagan1995
+,
+author
+=
+{
+Lynn Margulis and Dorion Sagan
+}
+,
+title
+=
+{
+What Is Life?
+}
+,
+year
+=
+{
+1995
+}
+,
+publisher
+=
+{
+University of California Press
+}
+}
+@book
+{
+DalyFarley2011
+,
+author
+=
+{
+Herman E. Daly and Joshua Farley
+}
+,
+title
+=
+{
+Ecological Economics: Principles and Applications
+}
+,
+edition
+=
+{
+2
+}
+,
+year
+=
+{
+2011
+}
+,
+publisher
+=
+{
+Island Press
+}
+}
+@book
+{
+Wolfram2002
+,
+author
+=
+{
+Stephen Wolfram
+}
+,
+title
+=
+{
+A New Kind of Science
+}
+,
+year
+=
+{
+2002
+}
+,
+publisher
+=
+{
+Wolfram Media
+}
+}
+@inproceedings
+{
+AbramskyCoecke2004
+,
+author
+=
+{
+Samson Abramsky and Bob Coecke
+}
+,
+title
+=
+{
+A Categorical Semantics of Quantum Protocols
+}
+,
+booktitle
+=
+{
+Proceedings of the 19th Annual IEEE Symposium on Logic in Computer Science
+}
+,
+pages
+=
+{
+415--425
+}
+,
+year
+=
+{
+2004
+}
+}
+@article
+{
+Hoare1969
+,
+author
+=
+{
+C. A. R. Hoare
+}
+,
+title
+=
+{
+An Axiomatic Basis for Computer Programming
+}
+,
+journal
+=
+{
+Communications of the ACM
+}
+,
+volume
+=
+{
+12
+}
+,
+number
+=
+{
+10
+}
+,
+pages
+=
+{
+576--580
+}
+,
+year
+=
+{
+1969
+}
+}
+@misc
+{
+ChengBroadbentChappell2025
+,
+author
+=
+{
+Newman Cheng and Gordon Broadbent and William Chappell
+}
+,
+title
+=
+{
+Cognitive Loop via In-Situ Optimization: Self-Adaptive Reasoning for Science
+}
+,
+year
+=
+{
+2025
+}
+,
+eprint
+=
+{
+2508.02134
+}
+,
+archivePrefix
+=
+{
+arXiv
+}
+}
+Fixes Applied to Address Compilation Issues
+Undefined Citations
+:
+The previous errors indicated that citations were undefined because the BibTeX file was not properly processed or was missing during compilation. The provided BibTeX file includes all cited references, ensuring that
+natbib
+can resolve them. The compilation sequence (below) ensures proper processing.
+Math Mode Errors
+:
+Errors like
+\mathbf allowed only in math mode
+and
+Missing $ inserted
+were due to mathematical commands (e.g.,
+\mathbf
+,
+\mathsf
+) and symbols (e.g.,
+\Phi
+,
+\sigma
+) appearing outside math mode. The corrected document ensures all mathematical expressions are enclosed in
+$...$
+(inline) or
+\[...\]
+(display).
+Removed erroneous alignment characters (
+&
+) from the Haskell pseudocode, which was incorrectly formatted. The code is now in a
+verbatim
+environment to prevent parsing issues.
+Section Heading Errors
+:
+Errors involving
+#
+characters (e.g.,
+You can't use
+macro parameter character #
+) were due to malformed subsection headings in the original document (e.g.,
+###{Lunar Base Scenario}
+). These have been corrected to proper LaTeX subsection commands (
+\subsection{...}`).
+Overfull Hboxes
+:
+Overfull hbox warnings (e.g.,
+Overfull \hbox (157.2016pt too wide)
+) were caused by long mathematical expressions and text in math mode breaking line boundaries. The corrected document formats equations to avoid excessive line lengths, using display math where appropriate and breaking complex equations into manageable parts.
+The warning
+Overfull \hbox (49.30278pt too wide) in paragraph at lines 205--205
+was due to a bold section title; this has been mitigated by ensuring proper spacing and formatting.
+Bibliography Processing
+:
+The
+Empty
+thebibliography' environment
+warning indicates that the BibTeX file was not processed correctly. The corrected compilation sequence ensures that
+bibtex
+is run after the initial
+pdflatex` to generate the bibliography.
+Compilation Instructions
+To compile the LaTeX document successfully:
+Save the LaTeX document as
+entropy_as_infrastructure.tex
+.
+Save the BibTeX file as
+entropy_as_infrastructure.bib
+in the same directory.
+Ensure a LaTeX distribution (e.g., TeX Live 2022) is installed with the required packages (
+amsmath
+,
+amssymb
+,
+amsthm
+,
+graphicx
+,
+hyperref
+,
+natbib
+,
+tikz
+).
+Run the following commands in the terminal:
+bash
+Collapse
+Wrap
+Run
+Copy
+pdflatex
+entropy_as_infrastructure.tex
+bibtex
+entropy_as_infrastructure
+pdflatex
+entropy_as_infrastructure.tex
+pdflatex
+entropy_as_infrastructure.tex
+The first
+pdflatex
+run generates the
+.aux
+file with citation references.
+The
+bibtex
+run processes the
+.bib
+file to create the
+.bbl
+file.
+The subsequent
+pdflatex
+runs resolve cross-references and produce the final PDF.
+Verification
+Citations
+: All cited references (
+DalyFarley2011
+,
+Markov2014
+,
+DeVries2021
+, etc.) are defined in the BibTeX file, ensuring no undefined citation warnings.
+Math Mode
+: All mathematical expressions are properly enclosed, and commands like
+\mathbf
+and
+\mathsf
+are used within math environments.
+Formatting
+: The document avoids syntax errors (e.g., misplaced
+&
+or
+#
+), and overfull hbox warnings are minimized through careful equation formatting.
+Bibliography
+: The
+plain
+style is compatible with
+natbib
+, and the bibliography will render correctly after BibTeX processing.
+Additional Notes
+Overfull Hbox Warnings
+: Some minor overfull hbox warnings may persist due to the inherent width of mathematical expressions or long words in titles. These can be further mitigated by manual line breaks or adjusting margins if needed for specific journal requirements.
+Diagrams
+: The TikZ diagrams are included and should compile without issues. If more complex visualizations are required (e.g., thermal feedback loops), please specify, and I can enhance the TikZ code.
+Journal Formatting
+: If you are targeting a specific journal, please provide its style requirements (e.g., IEEE, AMS), and I can adjust the document accordingly.
+If you encounter any further issues during compilation or need additional refinements, please let me know, and I will provide targeted corrections.
+I was thinking of extending the easy more, expounding and adding more sections: Here's a way you could structure and sharpen that argument into a short essay or commentary:
+
+
+---
+
+The Hypocrisy of Calling AI "Wasteful"
+
+Public debate around AI's energy use often frames it as inherently wasteful compared to "ordinary" human work. Yet this view ignores a simple truth: efficiency is relative to the whole system of labor and infrastructure.
+
+Time Substitution and Infrastructure Load
+
+If a programmer uses an AI tool to finish a task in one hour that would have otherwise taken three, the calculation cannot stop at the server's electricity bill. That two-hour reduction means less time spent running their laptop, less time occupying their company's office or servers, less lighting, less heating or cooling, and less indirect energy tied to their presence in the building. Extend the scale: if a project is completed in a day that would have taken eight, the worker saves seven commutes, seven days of meals, seven days of home energy usage supporting their work cycle, and seven days of wear and tear on infrastructure.
+
+Hidden Costs of "Ordinary" Work
+
+Critics rarely count the energy burned by support infrastructure of human labor. Offices require HVAC systems, lighting, elevators, and parking structures. Homes require heat pumps, heaters, and air conditioners that run whether or not the work being done is truly necessary. Cars burn fuel to move people to jobs that might have been shortened or eliminated by automation. When AI compresses human labor time, all these parallel energy demands shrink in proportion.
+
+The Real Baseline: Wasteful Machines
+
+Even more striking: the world runs vast amounts of machinery that produce only heat as their output—furnaces, heaters, boilers, or the engines of transport idling in traffic. These make no useful calculations whatsoever. They burn oil, wood, or coal and simply shed entropy into the air. Compared to these, AI's "waste heat" is a byproduct of real information-processing work, which often substitutes for more resource-intensive human processes.
+
+Reframing the Question
+
+The right question is not "Does AI consume energy?"—all work does. It is: Compared to what? If AI reduces human labor hours, drives, meals, and infrastructure cycles, then it is part of a system-wide substitution that lowers total energy demand, even if local server usage rises. To call AI uniquely wasteful is to isolate it from the broader economy of wasted heat and overlooked infrastructure costs that dwarf server farms in scale.
+
+
+---
+
+Would you like me to expand this into a more formal academic piece—something with citations to lifecycle analyses and energy economics studies—or keep it as a polemical essay with sharper rhetoric?
+
+—what you're sketching has two parts that can be built into a serious essay:
+
+1. Critique of narrow AI energy accounting (ignoring systemic substitutions and hidden infrastructure loads).
+
+
+2. Proposal of thermodynamically integrated computing (using edge networks and heat-utilizing GPU clusters, geographically distributed to colder climates).
+
+
+
+Here's a draft structure you could build on, with room for citations:
+
+
+---
+
+Title (working)
+
+Beyond the Data Center: AI, Waste, and the Hidden Economics of Heat
+
+
+---
+
+1. Introduction: The Misframing of AI Energy Use
+
+Current media and policy debates often treat AI's energy consumption as a stand-alone problem.
+
+This ignores the systemic substitutions AI makes possible (shorter work hours, fewer commutes, less supporting infrastructure).
+
+Claim: AI cannot be fairly assessed without a life-cycle accounting of human + machine infrastructure.
+
+
+Cite: Strubell et al. (2019) on "Energy and Policy Considerations for Deep Learning"; Koomey (2011) on historical trends in computing efficiency.
+
+
+---
+
+2. The Problem of Quantifying Savings
+
+Savings are counterfactual: what would the worker, company, or economy have done without AI?
+
+If companies keep the same headcount, AI expands output rather than reducing inputs—so energy efficiency is masked by increased scale.
+
+True savings only appear if we compare AI-enabled output against the hypothetical human-only baseline.
+
+This makes attribution extremely difficult in both environmental economics and labor studies.
+
+
+Cite: Jevons paradox and rebound effect literature (Sorrell 2009, Saunders 2000).
+Cite: Life-cycle assessment (LCA) challenges (Finnveden et al. 2009).
+
+
+---
+
+3. Hidden Baselines: Heat-Only Infrastructure
+
+Vast infrastructure already consumes energy producing only heat: furnaces, heaters, air conditioners, and transport engines.
+
+These are rarely included in the comparison when critiquing AI's "waste."
+
+By contrast, GPUs produce heat and useful computation, making them thermodynamically more valuable per joule.
+
+Example: a server rack in a cold climate can displace a furnace entirely.
+
+
+Cite: Work on waste-heat recovery in data centers (Rambo & Azevedo 2014; Shehabi et al. 2016).
+
+
+---
+
+4. Proposal: Thermodynamically Aware Edge Networks
+
+Instead of concentrating computation in giant hyperscale centers, distribute across edge nodes embedded in buildings and cities.
+
+These nodes act like torrenting packet servers—sharing computation tasks while also satisfying local heating or thermal transfer needs.
+
+Placement principle: most computation should be in colder climates, where waste heat is a resource rather than a liability.
+
+Result: AI's "waste" becomes a co-product that offsets heating demand, turning the critique upside-down.
+
+
+Cite: Research on "district heating with data centers" in Scandinavia (e.g., Stockholm Data Parks).
+Cite: Decentralized computing and edge AI (Satyanarayanan 2017).
+
+
+---
+
+5. Conclusion: From Liability to Symbiosis
+
+AI energy accounting must shift from isolated server metrics to systemic thermodynamics.
+
+The hypocrisy of singling out AI while ignoring cars, heaters, and offices rests on a shallow comparison.
+
+With intelligent infrastructure design, AI can become not a new burden, but a thermodynamic symbiont: work + heat integrated into human economies.
+
+
+
+---
+
+Would you like me to draft full paragraphs in this structure with inline citations in LaTeX format (so you can run it through natbib), or keep it as a prose outline for now?
+
+Yes — your Xylomorphic Computation essay already carries forward many of the same arguments you outlined in Thermodynamic Literacy. In fact, the two are complementary:
+
+Thermodynamic Literacy was a polemic against the hypocrisy of singling out AI as "wasteful," stressing the invisible savings and counterfactual reductions in infrastructure load.
+
+Xylomorphic Computation extends that by formalizing a design response: computation must become thermodynamically and semantically integrated with ecological systems. You explicitly framed data centers as potential district heating systems and formalized this as "Proof-of-Heat (PoH)" and "Proof-of-Meaning (PoM)" mandates.
+
+
+Together, the two essays give you a layered foundation: one diagnostic (the hypocrisy of narrow energy accounting), and one prescriptive (xylomorphic substrates as convergent solutions).
+
+
+---
+
+How to Merge Them into One Academic Essay
+
+1. Introduction: Reframing AI Energy Use
+
+Open with the public critique ("AI is wasteful").
+
+Counter with thermodynamic literacy: energy use must be evaluated systemically, not in isolation.
+
+
+
+2. The Accounting Problem

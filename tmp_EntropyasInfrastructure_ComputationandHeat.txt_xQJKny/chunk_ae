@@ -1,0 +1,1000 @@
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Package natbib Warning: Citation `DalyFarley2011' on page 1 undefined on input
+line 27.
+Package natbib Warning: Citation `Markov2014' on page 1 undefined on input line
+ 29.
+Package natbib Warning: Citation `DeVries2021' on page 1 undefined on input lin
+e 29.
+Package natbib Warning: Citation `Landauer1961' on page 1 undefined on input li
+ne 29.
+[1
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Package natbib Warning: Citation `ChengBroadbentChappell2025' on page 2 undefin
+ed on input line 39.
+Package natbib Warning: Citation `Shulman2012' on page 2 undefined on input lin
+e 39.
+Package natbib Warning: Citation `AbramskyCoecke2004' on page 2 undefined on in
+put line 39.
+Package natbib Warning: Citation `BaezStay2010' on page 2 undefined on input li
+ne 46.
+Package natbib Warning: Citation `MacLane1998' on page 2 undefined on input lin
+e 46.
+[2]
+Package natbib Warning: Citation `Lurie2009' on page 3 undefined on input line
+65.
+Package natbib Warning: Citation `Riehl2016' on page 3 undefined on input line
+65.
+Package natbib Warning: Citation `AbramskyCoecke2004' on page 3 undefined on in
+put line 73.
+Package natbib Warning: Citation `ChengBroadbentChappell2025' on page 3 undefin
+ed on input line 80.
+[3]
+Package natbib Warning: Citation `ChengBroadbentChappell2025' on page 4 undefin
+ed on input line 94.
+Package natbib Warning: Citation `Bennett1982' on page 4 undefined on input lin
+e 103.
+Package natbib Warning: Citation `SagawaUeda2009' on page 4 undefined on input
+line 103.
+Package natbib Warning: Citation `Wolfram2002' on page 4 undefined on input lin
+e 108.
+Package natbib Warning: Citation `CapraLuisi2014' on page 4 undefined on input
+line 110.
+Package natbib Warning: Citation `MargulisSagan1995' on page 4 undefined on inp
+ut line 110.
+[4]
+Package natbib Warning: Citation `ODwyerMalone2014' on page 5 undefined on inpu
+t line 116.
+Package natbib Warning: Citation `Mora2018' on page 5 undefined on input line 1
+16.
+Package natbib Warning: Citation `DeVries2021' on page 5 undefined on input lin
+e 116.
+Package natbib Warning: Citation `Carrier1991' on page 5 undefined on input lin
+e 124.
+Package natbib Warning: Citation `Spudis2016' on page 5 undefined on input line
+ 124.
+Package natbib Warning: Citation `NASAArtemis2023' on page 5 undefined on input
+ line 124.
+Package natbib Warning: Citation `DalyFarley2011' on page 5 undefined on input
+line 136.
+! Misplaced alignment tab character &.
+l.157 &
+               & semanticConsistent sigma
+?
+! Misplaced alignment tab character &.
+l.157 &&
+                 semanticConsistent sigma
+?
+! Misplaced alignment tab character &.
+l.158 &
+               & matchesRegisteredNeed tau ledger
+?
+! Misplaced alignment tab character &.
+l.158 &&
+                 matchesRegisteredNeed tau ledger
+?
+! Missing $ inserted.
+<inserted text>
+                $
+l.164 ...c infrastructure to field triples ( (\Phi
+                                                  , \vec{v}, S) ), quantifyi...
+?
+! LaTeX Error: Command \bfseries invalid in math mode.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type H <return> for immediate help.
+ ...
+                                                 
+l.164 ...tifying entropy flows \citep{Shulman2012}
+                                                  . The coupling equation is:
+?
+Package natbib Warning: Citation `Shulman2012' on page 5 undefined on input lin
+e 164.
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 168.
+! Missing $ inserted.
+<inserted text>
+                $
+l.169 \section
+              {Case Studies and Simulations}
+?
+Overfull \hbox (157.2016pt too wide) in paragraph at lines 164--169
+\OT1/cmr/m/n/12 RSVP the-ory maps se-man-tic in-fras-truc-ture to field triples
+ ( ($^^H\OML/cmm/m/it/12 ; []; S\OT1/cmr/m/n/12 ))\OML/cmm/m/it/12 ; quantifyin
+gentropyflows\OT1/cmr/m/n/12 [[]]\OML/cmm/m/it/12 :Thecouplingequationis \OT1/c
+mr/m/n/12 :
+ []
+Overfull \hbox (312.53998pt too wide) in paragraph at lines 164--169
+\OT1/cmr/m/n/12 [[] + \OMS/cmsy/m/n/12 r ^^A \OT1/cmr/m/n/12 ([]\OML/cmm/m/it/1
+2 S\OT1/cmr/m/n/12 ) = \OML/cmm/m/it/12 ^^[[] \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/i
+t/12 ^^[[]; \OT1/cmr/m/n/12 ]\OML/cmm/m/it/12 where\OT1/cmr/m/n/12 (\OML/cmm/m/
+it/12 ^^[[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 isentropyinjectionfromcomputation;
+ and\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 ^^[[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 mo
+delsdissipation:Theoptimizationproblemmaximizesutility \OT1/cmr/m/n/12 :
+ []
+Overfull \hbox (5.22935pt too wide) in paragraph at lines 164--169
+\OT1/cmr/m/n/12 [[][] \OMS/cmsy/m/n/12 U\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 M\OT
+1/cmr/m/n/12 ) [] \OML/cmm/m/it/12 Q[] \OMS/cmsy/m/n/12 ^^U E\OML/cmm/m/it/12 :
+\OT1/cmr/m/n/12 ]\OML/cmm/m/it/12 Thisframeworkviewscomputationasanenvironment
+\OMS/cmsy/m/n/12 ^^@
+ []
+Overfull \hbox (456.13321pt too wide) in paragraph at lines 164--169
+\OML/cmm/m/it/12 shapingagent; unifyingthermodynamicandsemanticflows:Expansionh
+ighlightsRSVP[]sabilitytoquantifysemanticentropy; enablingpreciseresourcealloca
+tionindynamicsystems:$
+ []
+[5]
+! You can't use `macro parameter character #' in horizontal mode.
+l.173 #
+       ##{Lunar Base Scenario}
+?
+! You can't use `macro parameter character #' in horizontal mode.
+l.173 ##
+        #{Lunar Base Scenario}
+?
+! You can't use `macro parameter character #' in horizontal mode.
+l.173 ###
+         {Lunar Base Scenario}
+?
+! Missing $ inserted.
+<inserted text>
+                $
+l.176 Habitat area: ( A = 500 , \text{m}^
+                                         2 ).
+?
+! Missing $ inserted.
+<inserted text>
+                $
+l.180
+     
+?
+Overfull \hbox (35.00592pt too wide) in paragraph at lines 176--180
+[]\OT1/cmr/m/n/12 Habitat area: ( A = 500 , []$[])\OML/cmm/m/it/12 :Heatlosscoe
+fficient \OT1/cmr/m/n/12 : (\OML/cmm/m/it/12 U \OT1/cmr/m/n/12 = 0\OML/cmm/m/it
+/12 :\OT1/cmr/m/n/12 1\OML/cmm/m/it/12 ; []=\OT1/cmr/m/n/12 ([][] \OMS/cmsy/m/n
+/12 ^^A []\OT1/cmr/m/n/12 ))\OML/cmm/m/it/12 :Targettemperature \OT1/cmr/m/n/12
+ :
+ []
+! Missing $ inserted.
+<inserted text>
+                $
+l.181 Thermal equilibrium: ( Q_
+                               {\text{GPU}}(t) = \eta_{\text{heat}} \cdot P_...
+?
+! You can't use `macro parameter character #' in math mode.
+l.182 #
+       ##{Polycomputational Node Network}
+?
+! You can't use `macro parameter character #' in math mode.
+l.182 ##
+        #{Polycomputational Node Network}
+?
+! You can't use `macro parameter character #' in math mode.
+l.182 ###
+         {Polycomputational Node Network}
+?
+! Missing $ inserted.
+<inserted text>
+                $
+l.184 \section
+              {Conclusion}
+?
+Overfull \hbox (460.19249pt too wide) in paragraph at lines 181--184
+[]\OT1/cmr/m/n/12 Thermal equi-lib-rium: ( Q$[](\OML/cmm/m/it/12 t\OT1/cmr/m/n/
+12 ) = \OML/cmm/m/it/12 ^^Q[] \OMS/cmsy/m/n/12 ^^A \OML/cmm/m/it/12 P[] \OMS/cm
+sy/m/n/12 ^^A \OML/cmm/m/it/12 n[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m
+/n/12 ) \OMS/cmsy/m/n/12 ^^Y \OML/cmm/m/it/12 Q[]\OT1/cmr/m/n/12 (\OML/cmm/m/it
+/12 t\OT1/cmr/m/n/12 ))\OML/cmm/m/it/12 :[]Simulationsdemonstratesemanticmergee
+fficiency; reducingentropyfluxby\OT1/cmr/m/n/12 40$
+ []
+Overfull \hbox (49.30278pt too wide) in paragraph at lines 188--188
+[]\OT1/cmr/bx/n/17.28 Semantic In-fras-truc-ture in a Fibered Sym-met-ric Monoi
+dal
+ []
+! LaTeX Error: \mathbf allowed only in math mode.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type H <return> for immediate help.
+ ...
+                                                 
+l.190 We define ( \mathbf
+                         {Sem} ) as a fibered symmetric monoidal category ov...
+?
+! LaTeX Error: \mathbf allowed only in math mode.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type H <return> for immediate help.
+ ...
+                                                 
+l.190 ...ymmetric monoidal category over ( \mathbf
+                                                  {Dom} ).
+?
+! Missing $ inserted.
+<inserted text>
+                $
+l.192 An object ( M = (F, \Sigma
+                                , D, \varphi) ):
+?
+! Missing $ inserted.
+<inserted text>
+                $
+l.193
+     
+?
+! Missing $ inserted.
+<inserted text>
+                $
+l.195 ( \Sigma
+               ): Semantic type annotations.
+?
+! Missing $ inserted.
+<inserted text>
+                $
+l.198
+     
+?
+Overfull \hbox (119.54213pt too wide) in paragraph at lines 194--198
+[]\OT1/cmr/m/n/12 ( F ): Fi-nite set of func-tion hashes. ( $^^F) : \OML/cmm/m/
+it/12 Semantictypeannotations:\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 D\OT1/cmr/m/n/1
+2 ) : \OML/cmm/m/it/12 Directedacyclicdependencygraph:\OT1/cmr/m/n/12 (\OML/cmm
+/m/it/12 '\OT1/cmr/m/n/12 ) :
+ []
+! Missing $ inserted.
+<inserted text>
+                $
+l.199 Morphism ( f: M \to
+                          M' ):
+?
+! Missing $ inserted.
+<inserted text>
+                $
+l.201 \subsection
+                 {Fiber Structure}
+?
+! Missing $ inserted.
+<inserted text>
+                $
+l.202 Projection: ( \pi
+                       : \mathbf{Sem} \to \mathbf{Dom} ).
+?
+! Missing $ inserted.
+<inserted text>
+                $
+l.204 \subsection
+                 {Symmetric Monoidal Structure}
+?
+! Missing $ inserted.
+<inserted text>
+                $
+l.206 [ M_
+          1 \otimes M_2 = (F_1 \uplus F_2, \Sigma_1 \cup \Sigma_2, D_1 \sqcu...
+?
+! Missing $ inserted.
+<inserted text>
+                $
+l.207 \section
+              {Semantic Merge Operators via Homotopy Colimits}
+?
+[6]
+! Missing $ inserted.
+<inserted text>
+                $
+l.209 For a diagram ( D: I \to
+                               \mathbf{Sem} ):
+?
+! Missing $ inserted.
+<inserted text>
+                $
+l.213 \section
+              {CLIO as a Recursive Inference Functor}
+?
+Overfull \hbox (38.24536pt too wide) in paragraph at lines 209--213
+\OT1/cmr/m/n/12 For a di-a-gram ( D: I $\OMS/cmsy/m/n/12 ! []\OT1/cmr/m/n/12 )
+: [[]([]) = [][]\OML/cmm/m/it/12 M[]; \OT1/cmr/m/n/12 ][\OML/cmm/m/it/12 S\OT1/
+cmr/m/n/12 ([]([])) \OMS/cmsy/m/n/12 ^^T [][] \OML/cmm/m/it/12 S\OT1/cmr/m/n/12
+ (\OML/cmm/m/it/12 M[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 ][] :
+ []
+Overfull \hbox (464.942pt too wide) in paragraph at lines 209--213
+\OML/cmm/m/it/12 Thehomotopycolimitconstructsaconeover\OT1/cmr/m/n/12 ([])\OML/
+cmm/m/it/12 ; withhomotopiesensuringcoherence:Theentropyboundfollowsfromtheuniv
+ersalproperty; aspathsminimizedivergenceacrossbranches:$
+ []
+Package natbib Warning: Citation `ChengBroadbentChappell2025' on page 7 undefin
+ed on input line 215.
+! LaTeX Error: \mathsf allowed only in math mode.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type H <return> for immediate help.
+ ...
+                                                 
+l.216 [ \mathsf
+               {CLIO}: \mathbf{Sem} \to \mathbf{Sem}, ]
+?
+! LaTeX Error: \mathbf allowed only in math mode.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type H <return> for immediate help.
+ ...
+                                                 
+l.216 [ \mathsf{CLIO}: \mathbf
+                              {Sem} \to \mathbf{Sem}, ]
+?
+! Missing $ inserted.
+<inserted text>
+                $
+l.216 [ \mathsf{CLIO}: \mathbf{Sem} \to
+                                        \mathbf{Sem}, ]
+?
+LaTeX Warning: Command \textquoteright invalid in math mode on input line 220.
+! Missing $ inserted.
+<inserted text>
+                $
+l.221 \section
+              {Thermodynamic Model of Compute-for-Heat}
+?
+Overfull \hbox (17.70383pt too wide) in paragraph at lines 215--221
+\OT1/cmr/m/n/12 CLIO, per \OT1/cmr/bx/n/12 ? []\OT1/cmr/m/n/12 , is: [ CLIO: Se
+m $\OMS/cmsy/m/n/12 ! []\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 ][\OMS/cmsy/m/n/12 C
+\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 M\OT1/cmr/m/n/12 ) = [][] \OML/cmm/m/it/12 ^^
+T\OT1/cmr/m/n/12 (^^H[](\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; [
+]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 ; S[]\OT1
+/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 ))\OML/cmm/m/it/12 ; d^^V\OT1/cm
+r/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 :\OT1/cmr/m/n/12
+]\OML/cmm/m/it/12 Iteration \OT1/cmr/m/n/12 :
+ []
+Overfull \hbox (156.29996pt too wide) in paragraph at lines 215--221
+\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 M[] \OT1/cmr/m/n/12 = []([][])\OML/cmm/m/it/1
+2 :\OT1/cmr/m/n/12 ][] : \OML/cmm/m/it/12 CLIO[]suncertainty \OMS/cmsy/m/n/12 ^
+^@ \OML/cmm/m/it/12 drivenadaptationenablesconvergencetoentropy \OMS/cmsy/m/n/1
+2 ^^@
+ []
+! Missing $ inserted.
+<inserted text>
+                $
+l.223 Heat generated over time ( \tau
+                                      ):
+?
+! Missing $ inserted.
+<inserted text>
+                $
+l.229 \section
+              {RSVP Field Coupling}
+?
+Overfull \hbox (147.18301pt too wide) in paragraph at lines 223--229
+[]\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 U ^^U U[]\OML/cmm/m/it/12 :\OT1/cmr/m/n/
+12 ][] : ([](\OML/cmm/m/it/12 T[]\OT1/cmr/m/n/12 ))\OML/cmm/m/it/12 quantifiese
+pistemiccontributions; ensuringheatcorrelateswithutility:$
+ []
+! Missing $ inserted.
+<inserted text>
+                $
+l.232 [ \frac{\partial S}{\partial t}
+                                      + \nabla \cdot (\vec{v} S) = \sigma_{\...
+?
+! Missing $ inserted.
+<inserted text>
+                $
+l.232 [ \frac{\partial S}{\partial t}
+                                      + \nabla \cdot (\vec{v} S) = \sigma_{\...
+?
+! Missing $ inserted.
+<inserted text>
+                $
+l.232 [ \frac{\partial S}{\partial t}
+                                      + \nabla \cdot (\vec{v} S) = \sigma_{\...
+?
+! Extra }, or forgotten $.
+\frac #1#2->{\begingroup #1\endgroup \@@over #2}
+                                                
+l.232 [ \frac{\partial S}{\partial t}
+                                      + \nabla \cdot (\vec{v} S) = \sigma_{\...
+?
+! Missing $ inserted.
+<inserted text>
+                $
+l.236 \section
+              {Monoidal Functor Structure of PoUWH}
+?
+Overfull \hbox (291.7158pt too wide) in paragraph at lines 231--236
+\OT1/cmr/m/n/12 Coupling equa-tion: [ $\OML/cmm/m/it/12 @S$$[]$
+ []
+! LaTeX Error: \mathcal allowed only in math mode.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type H <return> for immediate help.
+ ...
+                                                 
+l.240 ( \mathcal
+                {P} ): Physical devices, monoidal product ( \otimes_{\mathca...
+?
+! Missing $ inserted.
+<inserted text>
+                $
+l.240 ...sical devices, monoidal product ( \otimes
+                                                  _{\mathcal{P}} ).
+?
+! Missing $ inserted.
+<inserted text>
+                $
+l.242
+     
+?
+Overfull \hbox (88.21198pt too wide) in paragraph at lines 240--242
+[]\OT1/cmr/m/n/12 ( P ): Phys-i-cal de-vices, monoidal prod-uct ( $\OMS/cmsy/m/
+n/12
+[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 (\OMS/cmsy/m/n/12 I\OT1/cm
+r/m/n/12 ) : \OML/cmm/m/it/12 Infrastructurestates\OT1/cmr/m/n/12 ((^^B\OML/cmm
+/m/it/12 ; \OT1/cmr/m/n/12 ^^F))\OML/cmm/m/it/12 ; monoidalproduct\OT1/cmr/m/n/
+12 (\OMS/cmsy/m/n/12
+[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 :$
+ []
+! Missing $ inserted.
+<inserted text>
+                $
+l.244 [ F_
+          {\mathrm{PoUWH}}: \mathcal{P} \to \mathcal{I}, ]
+?
+! Missing $ inserted.
+<inserted text>
+                $
+l.249 \section
+              {Fibered PoUWH over Temporal Base Category}
+?
+Overfull \hbox (75.34874pt too wide) in paragraph at lines 243--249
+[]\OT1/cmr/m/n/12 Functor: [ F$[] : \OMS/cmsy/m/n/12 P ! I\OML/cmm/m/it/12 ; \O
+T1/cmr/m/n/12 ][\OML/cmm/m/it/12 F[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 d\OT1/cmr
+/m/n/12 ) = (^^B[]\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 ^^F[])\OML/cmm/m/it/12 ;
+F[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 m\OT1/cmr/m/n/12 ) = (\OML/cmm/m/it/12 ^^\
+[]; ^^[[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 ][] :
+ []
+Overfull \hbox (231.13744pt too wide) in paragraph at lines 243--249
+\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 F[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 d[] \OMS
+/cmsy/m/n/12
+[] \OML/cmm/m/it/12 d[]\OT1/cmr/m/n/12 ) = (^^B[] \OMS/cmsy/m/n/12 ^^H \OT1/cmr
+/m/n/12 ^^B[]\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 ^^F[] \OMS/cmsy/m/n/12 t \OT1/c
+mr/m/n/12 ^^F[])\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 ][] : (\OML/cmm/m/it/12 F[]\O
+T1/cmr/m/n/12 )\OML/cmm/m/it/12 factorsthroughadmissiblestatesif\OT1/cmr/m/n/12
+ (\OML/cmm/m/it/12 ^^Q\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 m\OT1/cmr/m/n/12 ) \OMS
+/cmsy/m/n/12 ^^U
+ []
+! LaTeX Error: \mathcal allowed only in math mode.
+See the LaTeX manual or LaTeX Companion for explanation.
+Type H <return> for immediate help.
+ ...
+                                                 
+l.251 Base category: ( \mathcal
+                               {T} = (\text{TimeIntervals}, \leq) ).
+?
+! Missing $ inserted.
+<inserted text>
+                $
+l.251 ...\mathcal{T} = (\text{TimeIntervals}, \leq
+                                                  ) ).
+?
+LaTeX Font Info: Trying to load font information for U+euf on input line 253
+.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/ueuf.fd
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
+)
+! Missing $ inserted.
+<inserted text>
+                $
+l.257 \section
+              {String Diagrams for Fibered Monoidal Functors}
+?
+Overfull \hbox (8.11673pt too wide) in paragraph at lines 251--257
+\OT1/cmr/m/n/12 Base cat-e-gory: ( T = ([], $\OMS/cmsy/m/n/12 ^^T\OT1/cmr/m/n/1
+2 ))\OML/cmm/m/it/12 :Fiber \OT1/cmr/m/n/12 : (\OMS/cmsy/m/n/12 I[]\OT1/cmr/m/n
+/12 )\OML/cmm/m/it/12 :Fibration \OT1/cmr/m/n/12 : (\OML/cmm/m/it/12 p \OT1/cmr
+/m/n/12 : \U/euf/m/n/12 I \OMS/cmsy/m/n/12 ! T\OT1/cmr/m/n/12 )\OML/cmm/m/it/12
+ :Liftedfunctor \OT1/cmr/m/n/12 :
+ []
+[7] (./thermal-infrastructure.bbl
+Package natbib Warning: Empty `thebibliography' environment on input line 3.
+)
+Package natbib Warning: There were undefined citations.
+[8] (./thermal-infrastructure.aux)
+Package rerunfilecheck Info: File `thermal-infrastructure.out' has not changed.
+(rerunfilecheck) Checksum: 81C12DB7B6B873DCBAF9BCE227D124A0;5390.
+ )
+(\end occurred inside a group at level 1)
+### simple group (level 1) entered at line 232 ({)
+### bottom level
+Here is how much of TeX's memory you used:
+ 23270 strings out of 478287
+ 455108 string characters out of 5849289
+ 747574 words of memory out of 5000000
+ 41035 multiletter control sequences out of 15000+600000
+ 480866 words of font info for 72 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 84i,7n,89p,1516b,640s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb>
+Output written on thermal-infrastructure.pdf (8 pages, 258395 bytes).
+PDF statistics:
+ 258 PDF objects out of 1000 (max. 8388607)
+ 207 compressed objects within 3 object streams
+ 35 named destinations out of 1000 (max. 500000)
+ 213 words of extra memory for PDF output out of 10000 (max. 10000000)
+T
+\documentclass[12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{natbib}
+\usepackage{tikz}
+\usetikzlibrary{arrows,positioning,shapes}
+\title{A Categorical and Bioeconomic Framework for Useful Computation as Heat, Semantic Merging, and Polycomputational Agency}
+\author{Flyxion}
+\date{August 15, 2025}
+\begin{document}
+\maketitle
+\begin{abstract}
+This academic essay articulates a unified framework integrating semantic infrastructure theory, polycomputation, and bioeconomic thermoregulation to reconceptualize computation as a foundational infrastructure. Computation is posited as an entropic process, with thermal byproducts repurposed for environmental regulation, while semantic infrastructure, formalized through fibered symmetric monoidal categories, enables coherent allocation and validation of useful computational work across domains. Drawing on Relativistic Scalar Vector Plenum (RSVP) field theory, the Cognitive Loop via In-Situ Optimization (CLIO) module, and thermodynamic principles, we critique inefficient entropy generation practices, such as speculative cryptocurrency mining, and propose sustainable alternatives, including GPU-based heating systems and cymatic yogurt computers. Policy prescriptions advocate for bans on non-useful proof-of-work systems and mandates for Public Research Objects (PROs) to ensure epistemic value. The framework extends to post-terrestrial contexts, such as lunar habitats, where computational and survival imperatives converge. A comprehensive mathematical appendix provides categorical and physical formalisms, with expanded proofs and visualizations via string diagrams. Case studies and simulations validate the framework's feasibility, demonstrating its potential to transform computational paradigms into sustainable, knowledge-enhancing infrastructures.
+\end{abstract}
+\section{Introduction}
+\label{sec:introduction}
+Infrastructure, in its broadest sense, transcends physical constructs such as transportation networks, energy grids, or architectural frameworks. It encompasses the orchestration of fundamental flows—energy, matter, information, and entropy—that underpin the stability, adaptability, and resilience of societal and ecological systems. The infrastructures inherited from the twentieth century were designed under assumptions of informational scarcity, energetic abundance, and climatic stability, assumptions now invalidated by contemporary realities \citep{DalyFarley2011}.
+The computational sector, once perceived as an intangible overlay, has emerged as a dominant thermodynamic entity. Data centers rival heavy industries in energy consumption, artificial intelligence models demand megawatt-scale resources, and cryptocurrency mining, in certain regions, surpasses traditional manufacturing in energy intensity \citep{Markov2014, DeVries2021}. Yet, these operations often exhibit thermodynamic inefficiency, consuming vast energy, dissipating heat as waste, and producing informational outputs of variable societal value, ranging from transformative insights to speculative ephemera \citep{Landauer1961}.
+This essay proposes a paradigm shift: computation is not merely layered atop infrastructure but constitutes infrastructure itself. Each bitwise operation is a thermodynamic event, each algorithm a heat source, and each dataset a mechanism for entropy governance. Through this lens, the digital and physical realms converge into a semantic-thermodynamic continuum, where entropy—conventionally viewed as disorder—is reframed as the foundational substrate of infrastructure.
+The essay advances a dual thesis:
+\textbf{Computation as an Entropic Process}: The heat generated by computational processes can be harnessed for environmental thermoregulation, transforming dissipative losses into productive assets.
+\textbf{Semantic Infrastructure}: Formalized through categorical constructs, semantic infrastructure enables the allocation, merging, and validation of useful computation across heterogeneous domains, ensuring epistemic value.
+We critique paradigms of wasteful entropy production, such as blockchain-based cryptocurrency mining, and advocate for productive entropy generation through computation-for-heat systems. The framework integrates the Relativistic Scalar Vector Plenum (RSVP) field theory for entropy mapping, the Cognitive Loop via In-Situ Optimization (CLIO) for adaptive reasoning, and polycomputational agency for multi-modal inference \citep{ChengBroadbentChappell2025, Shulman2012, AbramskyCoecke2004}. Applications span terrestrial and post-terrestrial contexts, with policy prescriptions ensuring alignment with bioeconomic imperatives.
+The essay is structured as follows: Section \ref{sec:categorical-foundations} establishes the categorical foundations of semantic infrastructure. Section \ref{sec:clio-polyagency} details the CLIO module and polycomputational agency. Section \ref{sec:bioeconomic-thermoregulation} explores bioeconomic thermoregulation. Section \ref{sec:normative-architecture} proposes a normative architecture for useful computation. Section \ref{sec:rsvp-integration} integrates the framework with RSVP theory. Section \ref{sec:case-studies} presents case studies and simulations. Section \ref{sec:conclusion} concludes with implications for post-Earth civilizations.
+\section{Categorical Foundations for Semantic Infrastructure}
+\label{sec:categorical-foundations}
+Semantic infrastructure is formalized using fibered symmetric monoidal categories, providing a robust framework for computational objects that span multiple theoretical domains \citep{BaezStay2010, MacLane1998}. This approach enables the representation of semantic modules—encapsulated computational entities—and entropy-respecting morphisms that preserve informational coherence across contexts.
+A semantic module is defined as a quadruple $ M = (F, \Sigma, D, \varphi) $, where:
+$ F $ is a finite set of function hashes uniquely identifying computational operations.
+$ \Sigma $ is a set of semantic type annotations ensuring domain-specific consistency.
+$ D $ is a directed acyclic dependency graph delineating submodule relationships.
+$ \varphi $ is an entropy mapping assigning functions to observables in the RSVP field.
+Morphisms $ f: M \to M' $ between modules preserve entropy and typing, satisfying:
+∀
+μ
+∈
+M
+,
+S
+(
+f
+(
+μ
+)
+)
+≤
+S
+(
+μ
+)
+,
+Σ
+(
+μ
+)
+⊆
+Σ
+(
+f
+(
+μ
+)
+)
+.
+\forall \mu \in M, \quad S(f(\mu)) \leq S(\mu), \quad \Sigma(\mu) \subseteq \Sigma(f(\mu)).
+∀
+μ
+∈
+M
+,
+S
+(
+f
+(
+μ
+))
+≤
+S
+(
+μ
+)
+,
+Σ
+(
+μ
+)
+⊆
+Σ
+(
+f
+(
+μ
+))
+.
+The category of semantic modules, $ \mathbf{Sem} $, is fibered over a base category $ \mathbf{Dom} $ of theoretical domains (e.g., RSVP cosmology, AI alignment, materials science). The projection functor $ \pi: \mathbf{Sem} \to \mathbf{Dom} $ assigns each module to its domain, with fiber categories $ \pi^{-1}(D) $ containing modules internal to domain $ D $. The symmetric monoidal structure is defined by the tensor product:
+M
+1
+⊗
+M
+2
+=
+(
+F
+1
+⊎
+F
+2
+,
+Σ
+1
+∪
+Σ
+2
+,
+D
+1
+⊔
+D
+2
+,
+φ
+1
+⊎
+φ
+2
+)
+,
+M_1 \otimes M_2 = (F_1 \uplus F_2, \Sigma_1 \cup \Sigma_2, D_1 \sqcup D_2, \varphi_1 \uplus \varphi_2),
+M
+1
+​
+⊗
+M
+2
+​
+=
+(
+F
+1
+​
+⊎
+F
+2
+​
+,
+Σ
+1
+​
+∪
+Σ
+2
+​
+,
+D
+1
+​
+⊔
+D
+2
+​
+,
+φ
+1
+​
+⊎
+φ
+2
+​
+)
+,
+enabling parallel composition of computational processes.
+Semantic merging is achieved through homotopy colimits, which integrate diagrams of modules while preserving coherence \citep{Lurie2009, Riehl2016}. For a diagram $ {M_i}_{i \in I} $, the merge is:
+M
+e
+r
+g
+e
+(
+{
+M
+i
+}
+)
+=
+h
+o
+c
+o
+l
+i
+m
+i
+∈
+I
+M
+i
+,
+\mathsf{Merge}(\{M_i\}) = \mathrm{hocolim}_{i \in I} M_i,
+Merge
+({
+M
+i
+​
+})
+=
+hocolim
+i
+∈
+I
+​
+M
+i
+​
+,
+satisfying the entropy non-increase property:
+S
+(
+M
+e
+r
+g
+e
+(
+{
+M
+i
+}
+)
+)
+≤
+sup
+⁡
+i
+∈
+I
+S
+(
+M
+i
+)
+.
+S(\mathsf{Merge}(\{M_i\})) \leq \sup_{i \in I} S(M_i).
+S
+(
+Merge
+({
+M
+i
+​
+}))
+≤
+sup
+i
+∈
+I
+​
+S
+(
+M
+i
+​
+)
+.
+The RSVP framework maps modules to field triples $ (\Phi, \vec{v}, S) $, representing scalar semantic density, computational flow, and entropy flux, respectively. This enables quantification of semantic entropy analogous to physical entropy, facilitating cross-domain interoperability. Polycomputation formalizes the integration of multiple computational paradigms—symbolic, sub-symbolic, and field-based—within a unified categorical schema, ensuring seamless inference across modalities \citep{AbramskyCoecke2004}.
+This categorical approach mitigates inefficiencies inherent in siloed computational architectures. By enabling lifts and translations via base morphisms, the fibered structure reduces redundant entropy production. For example, a module in RSVP cosmology can be translated to AI alignment, mapping entropy fields to uncertainty metrics, thereby optimizing knowledge transfer. Homotopy colimits further ensure robustness against temporal inconsistencies, accommodating dynamic data streams in real-time applications.
+\section{CLIO Module and Polycomputational Agency}
+\label{sec:clio-polyagency}
+The Cognitive Loop via In-Situ Optimization (CLIO), introduced by \citet{ChengBroadbentChappell2025}, is a framework enabling large language models (LLMs) to self-formulate problem-solving strategies, adapt based on internal uncertainty, and deliver steerable, transparent reasoning for scientific discovery. Formalized as a recursive inference functor in the RSVP-enriched category $ \mathbf{Sem} $, CLIO is defined as:
+C
+L
+I
+O
+:
+S
+e
+m
+→
+S
+e
+m
+,
+\mathsf{CLIO}: \mathbf{Sem} \to \mathbf{Sem},
+CLIO
+:
+Sem
+→
+Sem
+,
+C
+(
+M
+)
+=
+∫
+X
+κ
+(
+Φ
+M
+(
+x
+)
+,
+v
+⃗
+M
+(
+x
+)
+,
+S
+M
+(
+x
+)
+)
+d
+μ
+(
+x
+)
+,
+\mathcal{C}(M) = \int_{\mathcal{X}} \kappa(\Phi_M(x), \vec{v}_M(x), S_M(x)) \, d\mu(x),
+C
+(
+M
+)
+=
+∫
+X
+​
+κ
+(
+Φ
+M
+​
+(
+x
+)
+,
+v
+M
+​
+(
+x
+)
+,
+S
+M
+​
+(
+x
+))
+d
+μ
+(
+x
+)
+,
+where $ \Phi, \vec{v}, S $ are RSVP fields, and $ \kappa $ is a kernel measuring alignment with semantic objectives. CLIO iterates via:
+M
+t
++
+1
+=
+M
+e
+r
+g
+e
+(
+{
+O
+p
+t
+i
+m
+i
+z
+e
+ℓ
+(
+M
+t
+)
+}
+ℓ
+∈
+L
+)
+,
+M_{t+1} = \mathsf{Merge}(\{ \mathsf{Optimize}_\ell(M_t) \}_{\ell \in L}),
+M
+t
++
+1
+​
+=
+Merge
+({
+Optimize
+ℓ
+​
+(
+M
+t
+​
+)
+}
+ℓ
+∈
+L
+​
+)
+,
+allocating inference tasks across heterogeneous compute nodes.
+Polycomputational agency emerges from concurrent specialized modules—e.g., physics constant extraction, data compression, environmental simulation—coordinated through semantic merges. An example application involves distributed sensor networks detecting Earth climate anomalies while regulating habitat heat. CLIO assigns subtasks (e.g., symbolic deduction, pattern recognition) across nodes, with merges ensuring global coherence.
+Expanding on CLIO's design, its open architecture allows scientists to observe uncertainty levels and interject corrections, enhancing steerability \citep{ChengBroadbentChappell2025}. Oscillations in internal uncertainty measures signal reasoning robustness, guiding task reallocation to minimize entropy flux. By enriching $ \mathbf{Sem} $ to a 2-category, where 2-cells represent coherence transformations, the framework supports hybrid reasoning, fusing symbolic proofs, neural approximations, and field-based simulations.
+In practical terms, polycomputational agency enables adaptive systems where tasks are dynamically reassigned based on entropy gradients. If a node's entropy flux exceeds thresholds, CLIO reallocates tasks to lower-entropy peers, optimizing both semantic and thermal outputs. This capability is critical in dynamic environments, such as real-time climate monitoring, where rapid adaptation enhances system resilience.
+\section{Bioeconomic Thermoregulation}
+\label{sec:bioeconomic-thermoregulation}
+\subsection{Terrestrial Contexts}
+Bioeconomic thermoregulation reconfigures heating infrastructures by replacing conventional devices with high-performance compute clusters, such as GPUs, TPUs, and novel architectures like cymatic yogurt computers (CYCs) \citep{Bennett1982, SagawaUeda2009}. Waste heat is repurposed for building thermoregulation, transforming dissipative losses into productive assets. Permissible computations include:
+Compression research for data efficiency.
+LIDAR classification for environmental mapping.
+Environmental simulations for climate modeling.
+Quine generation for self-consistent data preservation \citep{Wolfram2002}.
+This approach aligns economic incentives with biological and ecological sustainability, as computational heat supports processes like microbial fermentation, yielding both thermal regulation and biological products \citep{CapraLuisi2014, MargulisSagan1995}.
+For instance, a residential GPU array integrated into an HVAC system can run climate simulations during winter, providing heat while contributing to global models. CYCs further enhance this by using biological media as thermal buffers and analog computation substrates, performing pattern recognition via wave interference while maintaining fermentation conditions.
+\subsection{Post-Terrestrial Contexts: Lunar and Beyond}
+In extraterrestrial environments, proposals for blockchain-mining heaters exemplify thermodynamic inefficiency, prioritizing speculative finance over utility \citep{ODwyerMalone2014, Mora2018, DeVries2021}. These systems produce negligible epistemic value, constituting entropy sinks.
+The proposed alternative embeds GPU-based heater-computers in lunar habitats, dedicated to:
+Environmental simulations for habitat stability.
+Change magnification analysis for regolith dynamics.
+Error-checking of research archives.
+Funding leverages Public Research Objects (PROs) and cooperative computation networks, ensuring communal benefits \citep{Carrier1991, Spudis2016, NASAArtemis2023}. In lunar contexts, where thermal swings are extreme, computation-for-heat integrates seamlessly, with workloads tailored to habitat needs, such as dust mitigation simulations. Cooperative networks distribute tasks across colonies, merging outputs into a unified knowledge base, fostering interplanetary resilience.
+\section{Normative Architecture of Useful Computation}
+\label{sec:normative-architecture}
+The normative architecture mandates the elimination of speculative proof-of-work systems, instituting Useful Compute Mandates for heat-generating facilities. The Public Research Object (PRO) encapsulates:
+Semantic deltas with citation graphs.
+Thermal logs with sensor data.
+Morphism type signatures.
+Cryptographic proofs of execution.
+Incentive structures reframe computation-as-currency, tying value to scientific or environmental contributions \citep{DalyFarley2011}. The Proof-of-Useful-Work-and-Heat (PoUWH) protocol requires dual proofs:
+\textbf{Proof-of-Heat (PoH)}: Thermal output matches registered infrastructure needs.
+\textbf{Proof-of-Meaning (PoM)}: Semantic transformation reduces uncertainty in knowledge domains.
+Transactions are typed as $ \mathrm{Tx} = (M_{\mathrm{in}}, (\tau, \sigma), M_{\mathrm{out}}) $, validated against:
+H
+t
+h
+e
+r
+m
+o
+⋅
+H
+s
+e
+m
+a
+n
+t
+i
+c
+≥
+η
+min
